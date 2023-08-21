@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+boto3
+selenium-wire==5.1.0
+selenium==4.1.0
+webdriver-manager==3.2.2
+python-dateutil==2.8.2
