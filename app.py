@@ -24,7 +24,7 @@ app.add_middleware(
 
 def get_page_data(page_id, browser_proxy, days_count):
     page_name = page_id
-    browser = "firefox"
+    browser = "chrome"
     if browser_proxy:
         proxy = browser_proxy
     timeout = 600  # 600 seconds
